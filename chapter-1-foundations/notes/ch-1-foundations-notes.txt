@@ -1,0 +1,39 @@
+    <===   Java Conventions   ===>
+
+Files should be named by whatever class is at the beginning. 
+Classes use a modified camel-case naming convention.
+
+For example, if I had a class entitled "foo bar," I would
+write the class name as "FooBar," and the file would be
+named "FooBar.java".
+
+If you would like to use numbers in your class names, make
+sure you put the numbers AFTER the class name, such that our
+previous "foo bar" class would be declared as "FooBar2.java".
+
+    <===     Java Syntax     ===>
+
+In Java, common syntax errors arise when one forgets to
+put either a semi-colon " ; " at the end of a function's
+procedural logic,
+
+OR when one forgets to include opening/closing brackets
+around classes and functions. " { " and " } ", respectively.
+
+Most IDEs for Java programs ignore whitespace. This means
+that "improper" tabbing/spaces should not result in a syntax error.
+
+    <---     Syntax EX     --->
+
+public class MyClass {
+  public static void main(String[] args) {
+    System.out.println("Syntax Example");
+  }
+}
+
+    <---  AnotherSyntaxEX  --->
+
+public class FooBar{public static void main(String[] args){System.out.println("Syntax Example");}}
+
+The above "one-liner" is not preferred due to the lack of readability.
+However, it will compile and do the same thing as "MyClass".
