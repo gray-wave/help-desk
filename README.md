@@ -6,6 +6,7 @@
 <h2>Directory Navigation</h2><br>
 <p><b>First, select whichever chapter you<br>
 are on in the book. Then; </b><br>
+<br>
 -- src/    ===> Source code (with comments)<br>
 -- docs/   ===> Documentation<br>
 -- notes/  ===> Further explanations and summaries<br>
