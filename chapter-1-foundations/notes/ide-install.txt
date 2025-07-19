@@ -1,0 +1,28 @@
+
+       <=====     SUPER IMPORTANT     =====>
+
+NOTE: DO NOT PERFORM/PROCEED WITH THESE INSTALLS UNTIL AFTER 
+YOU HAVE DOWNLOADED THE CORRECT "JDK" (Java Development Kit).
+THIS WILL SAVE YOU A LOT OF HEADACHES LATER ON IN THIS COURSE.
+
+          <=====     IMPORTANT     =====>
+
+NOTE: IT IS HIGHLY NOT ADVISED TO USE ANY FORM OF GNU/LINUX
+OPERATING SYSTEM FOR THIS COURSE. THE INSTALL PROCESS IS EVEN 
+MORE DIFFICULT THAN THE STEP-BY-STEP PROCEDURES LAID OUT IN THIS
+GUIDE. 
+IF YOU NEED ACCESS TO A COMPUTER, AND/OR DO NOT OWN ONE, THE 
+LIBRARY HAS COMPUTERS THAT YOU CAN SIGN INTO WITH YOUR SCHOOL 
+E-MAIL.
+
+With the warnings out of the way...
+
+       >>>     UNDER CONSTRUCTION     <<<
+
+For this course, it is required that you use
+Apache NetBeans IDE (Integrated Development Environment).
+
+I've found that NetBeans 24 works great on Windows 11
+for this course. 
+
+MacOS...loading...
