@@ -4,7 +4,7 @@
 guide to navigate this course. This will help <br>
 decompose the homework, installs, et cetera into <br>
 more easily digestible chunks.</p><br>
-<a href="https://github.com/gray-wave/help-desk/blob/main/chapter-1-foundations/notes/README.md#general-steps-for-success">Click Me!</a>
+<a href="https://github.com/gray-wave/help-desk/blob/main/chapter-1-foundations/notes/README.md#general-steps-for-success">Click Me!</a><br>
 <a href="https://github.com/gray-wave/help-desk/blob/main/chapter-1-foundations/notes/README.md#steps-for-this-course">Click Me!</a>
 <h3>General Steps for Success</h3><br>
 <p><b>Step 1) </b> should always be to check the course <br>
