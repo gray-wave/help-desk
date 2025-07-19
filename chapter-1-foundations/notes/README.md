@@ -15,6 +15,7 @@ on your phone. <br>
 <br>
 <b>Step 3) </b> Purchase, rent, or obtain the course textbook. <br>
 </p>
+<br>
 <h3>Steps for this Course</h3><br>
 <p><b>Step 1) </b>Read the assigned chapter. This may <br>
 seem obvious to some of you. Take handwritten notes if <br>
