@@ -1,0 +1,24 @@
+Prior to beginning this course, you should have some basic
+understanding of some OOP (Object-Oriented Programming) terms.
+
+DATATYPE => There are many different kinds of datatypes to hold
+			various different types of data. For example, an "int"
+			datatype can hold whole numbers (24, 52, 70, etc), 
+			while a "string" datatype can hold alphabetical data
+			("Hello", "Gray Wave", "Java Time!", etc).
+
+			In Java, there are many datatypes to choose from.
+			Each has its own strengths and weaknesses. There are
+			far too many to list here, but if you read the textbook,
+			you will see what I mean.
+
+CLASS   =>  A class is a way to store data as well as actions
+			affiliated with that data. When speaking in OOP terms,
+			we refer to the data as "Attributes", and the functions
+			and/or actions as "Methods".
+
+FUNCTION => A function is a way to store procedural logic in a
+			conveniently modular way.
+
+	>>>     UNDER CONSTRUCTION     <<<
+ help computer, stop all the downloading!
