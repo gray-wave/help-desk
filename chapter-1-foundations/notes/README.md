@@ -4,19 +4,18 @@
 guide to navigate this course. This will help <br>
 decompose the homework, installs, et cetera into <br>
 more easily digestible chunks.</p><br>
-<br>
 <h3>General Steps for Success</h3><br>
-<br>
 <p><b>Step 1) </b> should always be to check the course <br>
-syllabus, regardless of which class you take. <br><br>
+syllabus, regardless of which class you take. <br>
+<br>
 <b>Step 2) </b> After you check the syllabus, you should figure <br>
 out due dates and course demands/expectations. I recommend <br>
 putting due dates into a planner, or into the calendar app <br>
 on your phone. <br>
-<b>Step 3) </b> Purchase, rent, or obtain the course textbook. <br>
-</p><br>
-<h3>Steps for this Course</h3><br>
 <br>
+<b>Step 3) </b> Purchase, rent, or obtain the course textbook. <br>
+</p>
+<h3>Steps for this Course</h3><br>
 <p><b>Step 1) </b>Read the assigned chapter. This may <br>
 seem obvious to some of you. Take handwritten notes if <br>
 you care about retaining information. <br>
