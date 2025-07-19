@@ -38,5 +38,3 @@ Anything preceded by "ch-0" is expected prior knowledge. <br>
 <b>Step 5) </b> If you are still stuck after going <br>
 through steps 1-4, check out the "Source" Folder (src) <br>
 to view code written by yours, truly.</p><br>
-<br>
-<h1>Let's see how this turned out.</h1>
