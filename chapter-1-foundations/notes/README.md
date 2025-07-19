@@ -4,6 +4,7 @@
 guide to navigate this course. This will help <br>
 decompose the homework, installs, et cetera into <br>
 more easily digestible chunks.</p><br>
+<a href="https://github.com/gray-wave/help-desk/blob/main/chapter-1-foundations/notes/README.md#general-steps-for-success">Click</a>
 <h3>General Steps for Success</h3><br>
 <p><b>Step 1) </b> should always be to check the course <br>
 syllabus, regardless of which class you take. <br>
