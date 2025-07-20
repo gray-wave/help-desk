@@ -2,24 +2,24 @@ Prior to beginning this course, you should have some basic
 understanding of some OOP (Object-Oriented Programming) terms.
 
 DATATYPE => There are many different kinds of datatypes to hold
-	    	various different types of data. For example, an "int"
-	    	datatype can hold whole numbers (24, 52, 70, etc), 
-			while a "string" datatype can hold alphabetical data
-			("Hello", "Gray Wave", "Java Time!", etc).
+	    various different types of data. For example, an "int"
+	    datatype can hold whole numbers (24, 52, 70, etc), 
+	    while a "string" datatype can hold alphabetical data
+	    ("Hello", "Gray Wave", "Java Time!", etc).
 
-			In Java, there are many datatypes to choose from.
-			Each has its own strengths and weaknesses. There are
-			far too many to list here, but if you read the textbook,
-			you will see what I mean.
+	    In Java, there are many datatypes to choose from.
+	    Each has its own strengths and weaknesses. There are
+	    far too many to list here, but if you read the textbook,
+	    you will see what I mean.
 
-			Also, in object-oriented programming, there exists these
-			strange datatypes known by many names. You may have heard
-			of arrays, lists, or dictionaries (dictionaries used to be called 
-			hashmaps before the advent of AI), which are a single declaration 
-			that can contain multiple pieces of data, or "elements". These
-			elements reside, so to speak, at certain postions/locations known
-			as "indices (singular: index)" In dicts/hashmaps, elements are
-			stored in key-value pairs. Think two-dimensional arrays.
+	    Also, in object-oriented programming, there exists these
+		strange datatypes known by many names. You may have heard
+		of arrays, lists, or dictionaries (dictionaries used to be called 
+		hashmaps before the advent of AI), which are a single declaration 
+		that can contain multiple pieces of data, or "elements". These
+		elements reside, so to speak, at certain postions/locations known
+		as "indices (singular: index)" In dicts/hashmaps, elements are
+		stored in key-value pairs. Think two-dimensional arrays.
 
 
 CLASS   =>  A class is a way to store data as well as actions
