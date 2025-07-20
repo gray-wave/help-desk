@@ -2,8 +2,8 @@ Prior to beginning this course, you should have some basic
 understanding of some OOP (Object-Oriented Programming) terms.
 
 DATATYPE => There are many different kinds of datatypes to hold
-			various different types of data. For example, an "int"
-			datatype can hold whole numbers (24, 52, 70, etc), 
+	    	various different types of data. For example, an "int"
+	    	datatype can hold whole numbers (24, 52, 70, etc), 
 			while a "string" datatype can hold alphabetical data
 			("Hello", "Gray Wave", "Java Time!", etc).
 
@@ -12,13 +12,65 @@ DATATYPE => There are many different kinds of datatypes to hold
 			far too many to list here, but if you read the textbook,
 			you will see what I mean.
 
+			Also, in object-oriented programming, there exists these
+			strange datatypes known by many names. You may have heard
+			of arrays, lists, or dictionaries (dictionaries used to be called 
+			hashmaps before the advent of AI), which are a single declaration 
+			that can contain multiple pieces of data, or "elements". These
+			elements reside, so to speak, at certain postions/locations known
+			as "indices (singular: index)" In dicts/hashmaps, elements are
+			stored in key-value pairs. Think two-dimensional arrays.
+
+
 CLASS   =>  A class is a way to store data as well as actions
 			affiliated with that data. When speaking in OOP terms,
 			we refer to the data as "Attributes", and the functions
 			and/or actions as "Methods".
 
+
 FUNCTION => A function is a way to store procedural logic in a
-			conveniently modular way.
+			conveniently modular way. Functions can be copied between
+			files, and they will act identically between files, which
+			is why they are said to be "modular." Unfortunately,
+			modular programming is inefficient. You should (and will,
+			at least in this course) use classes to store attributes 
+			and methods.
+			Procedure -> a function that does not return any values.
+						 in Java, these are identified/declared using the "void"
+						 keyword.
+
+
+SCOPE	 => In OOP, "scope" is used to define access, so to speak, to
+			previously declared variables somewhere within your program.
+			There are two different kinds of scope:
+			Global -> these variables are accessible to the entire program.
+					  we try to avoid using globals, as they can cause slight
+					  inefficiencies / code-readability issues.
+			Local  -> these variables are accessible to the function in which
+					  they were defined. 
+
+
+REPETITION STRUCTURE => A repetition structure in programming is some 
+			form of loop that will carry out repeated actions until
+			a certain condition is met, or indefinitely in a background
+			process. You may already be familiar with "for" and "while"
+			loops. There are a few more types of loops in Java, which 
+			we will not talk about until chapters 4 and 5.
+
+
+DECISION STRUCTURE => A decision structure in programming is a way to
+			control the "flow" of your program. Depending upon certain
+			variables, decisions can be made by your computer as to 
+			what happens next. There are three types of decision structure.
+			Single Alternative -> If [condition]; then [action].
+			Dual Alternative   -> If [condition]; then [action];
+								  Else (if our condition evaluates to false);
+								  then [alternate action].
+			Multi-Alternative  -> If [condition1]; then [action1];
+								  Else If [condition2]; then [action2];
+								  ... (suggesting we can continue indefinitely)
+								  Else [previous conditions evaluate to false];
+								  then [alternate action].
 
 	>>>     UNDER CONSTRUCTION     <<<
  help computer, stop all the downloading!
