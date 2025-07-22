@@ -3,6 +3,8 @@
 |  data types that should assist you with the
 |  week one homework.
 |  
+|  Be sure to consult "FormatPrint.java" prior
+|  to reading through this file.
 |  >>> UNDER CONSTRUCTION <<<
 |  Note; need to do printf first.
 |
@@ -18,4 +20,7 @@ public class DataTypes{
     String message;   // Variable declaration (String)
     message = "The sum of these numbers is: ";               // Variable assignment
     String message2 = "The average of these numbers is: ";   // One line declare/assign
-  
+    System.out.printf("%s%.2f%n", message2, avg);
+  }
+}
+// I keep forgetting my closing bracers lol
