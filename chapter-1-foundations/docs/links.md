@@ -10,3 +10,7 @@
 <a href="https://www.oracle.com/downloads/#category-java">Oracle Java Downloads</a><br>
 <p>Note; the Oracle Java Downloads is not necessary for this course. <br>
 It is there in case you want to look more into Java (: </div><br>
+<h2>General Help Links</h2><br>
+<a href="https://cplusplus.com/reference/cstdio/printf/">Print Formatting Guide</a><br>
+<br>
+<strong>UNDER CONSTRUCTION</strong>
