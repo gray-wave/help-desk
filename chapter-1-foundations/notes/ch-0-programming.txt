@@ -21,3 +21,36 @@ Basic -> Developed at Dartmouth College (Ivy League)
          in order to teach the concepts of programming.
 
 C -> Developed by Dennis Ritchie (one of the authors
+     of the ANSI C Standard books... imagine that!)
+     at Bell Labs. C concepts are very applicable to
+     Java!
+
+C++ -> Developed by Bjarne Stroustrup at Bell Labs
+       a decade after the inception of C. C++ 
+       extended the functionality and standard
+       library of C.
+
+C# -> Microsoft's version of C. It is an OOP
+      language generally used in game development.
+      It has very similar syntax to Java.
+
+COBOL -> This language's name is an acronym
+         for "COmmon Business Oriented Language".
+         This language was invented in the 1950s
+         by the US using concepts introduced by
+         Grace Hopper (a HUGE name in compsci).
+
+Fortran -> This language's name is also an acronym
+           for "FORmula TRANslator". This language
+           was developed by IBM in the 1950s. 
+           Fortran still has some use to this day
+           in scientific and engineering fields.
+
+JavaScript -> NOT TO BE CONFUSED WITH JAVA. JavaScript
+              is the most widely-used scripting language.
+              JavaScript has many applications in web 
+              development.
+
+Objective-C -> 
+
+>>>     Under Construction     <<<
