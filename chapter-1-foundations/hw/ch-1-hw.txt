@@ -1,2 +1,17 @@
-Unfortunately, do not yet know the specific question
-numbers for chapter one.
+    Homework for Chapter 1
+-------------------------------
+No chapter questions assigned this week.
+Lucky...! Instead, your homework for this 
+week is to make sure you have:
+
+1) Java JDK 17+ Installed (With JavaFX)
+
+2) Setting the Java HOME variable on your 
+   respective OS (Windows/MacOS recommended)
+
+3) Apache NetBeans 24 or 25 Installed and functioning.
+   To check whether or not NetBeans is functioning,
+   write out a HelloWorld test class, right-click
+   within the "program window", and select the 
+   dropdown option "Run File". (I'm pretty sure
+   you can also use F5 to run the file.)
