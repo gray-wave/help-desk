@@ -1,6 +1,6 @@
 
 <h1>Helpful Links for this Chapter</h1><br>
-<h2>Javadoc Links<h2><br>
+<h2>Javadoc Links<h2>
 <a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html">Javadoc Home Page</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/toc.html">Javadoc Tabular Layout</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/System.html">Javadoc System Class</a><br>
