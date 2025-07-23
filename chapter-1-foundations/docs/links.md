@@ -13,5 +13,6 @@ It is there in case you want to look more into Java (: </div><br>
 <h2>General Help Links</h2><br>
 <a href="https://cplusplus.com/reference/cstdio/printf/">Print Formatting Guide</a><br>
 <a href="https://www.ascii-code.com/">ASCII Table (Char datatype help)</a><br>
+<a href="https://deitel.com/java-how-to-program-11-e-early-objects-version/">Book Website</a><br>
 <br>
 <strong>UNDER CONSTRUCTION</strong>
