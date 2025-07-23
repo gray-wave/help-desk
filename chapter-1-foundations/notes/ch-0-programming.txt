@@ -1,6 +1,7 @@
 (See section 1.7 in the course textbook)
 
 <---     Note from Gray Wave     --->
+
 This is just a general overview of different programming
 languages that is covered in your textbook in chapter one.
 
@@ -10,3 +11,13 @@ singular language you would like to get skilled in.
 
 You should always be working on developing your computational
 thinking skills. 
+
+<---     Programming Languages     --->
+
+Ada -> A language based on Pascal developed by the US
+       Department of Defense. 
+
+Basic -> Developed at Dartmouth College (Ivy League)
+         in order to teach the concepts of programming.
+
+C -> Developed by Dennis Ritchie (one of the authors
