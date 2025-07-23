@@ -3,7 +3,8 @@
 <h2>Javadoc Links (More Helpful than Oracle)<h2><br>
 <div><a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html">Javadoc Home Page</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/toc.html">Javadoc Tabular Layout</a><br>
-<a href="https://docs.oracle.com/javase/8/docs/api/java/lang/System.html">Javadoc System Class</a></div><br>
+<a href="https://docs.oracle.com/javase/8/docs/api/java/lang/System.html">Javadoc System Class</a><br>
+<a href="https://docs.oracle.com/javase/tutorial/java/TOC.html">Javadoc Learning Roadmap</a><br></div>
 <h2>Oracle Links</h2><br>
 <div><a href="https://docs.oracle.com/search/?category=java&q=">Oracle Search</a><br>
 <a href="https://docs.oracle.com/en/">Oracle Documentation</a><br>
