@@ -7,19 +7,26 @@
 |  System.out.println(), which can print multiple
 |  datatypes and appends a newline character to
 |  the end of whatever arguments specified.
+|  (See: Line 41) ----
 |
 |  Next, there is System.out.print(), which also
 |  can print multiple datatypes; however, it does
 |  not append the newline character to the end of
 |  arguments specified.
+|  (See: Line 38) ----
 |
 |  Last, but certainly not least, is System.out.printf().
 |  printf allows for the usage of "format specifiers,"
 |  which allow the programmer to hard-code which datatype
 |  arguments are to be specified, and in which order they
 |  appear. 
+|  (See: Lines 39, 40) ----
 |  
-|  UNDER CONSTRUCTION (very close to being done!!)
+|  IMPORTANT: See docs/links.md 
+|  Within that file, there is a link that explains
+|  printf's format specifiers. It is technically for
+|  C/C++ languages, but the same format specifiers 
+|  apply to Java.
 */
 public class FormatPrint {
   public static void main(String[] args){
