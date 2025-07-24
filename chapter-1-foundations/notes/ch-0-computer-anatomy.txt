@@ -6,6 +6,10 @@ PERIPHERALS: Hardware to extend the functionality of a computer.
              These are things like monitors, keyboards, computer
              mouses, headphones, speakers, et cetera.
 
+SOFTWARE: Computer programs/sets of instructions.
+
+HARDWARE: A computer or peripherals thereof.
+
 (See section 1.2.2 in the book.)
 INPUT UNIT --->  | The input unit, also referred to as "standard
                  | in", are things like the keyboard, a file, a
@@ -18,4 +22,13 @@ OUTPUT UNIT ---> | The output unit, also referred to as "standard
                  | outputs the processed information. The book describes
                  | the output unit as as the shipping part of a warehouse.
                  | It gives output. That's what it does.
->>> under construction <<<
+                 |
+MEMORY UNIT ---> | The memory unit, commonly known to most computer
+                 | people as RAM (Random Access Memory), is a low storage
+                 | yet easy access memory location. The memory unit contains
+                 | what is known as volatile memory, which is often lost
+                 | when the computer shuts down. The book describes the
+                 | memory unit as the warehouse. It allocates memory.
+                 |
+
+>>>under construct<<<
