@@ -1,4 +1,5 @@
-(See section 1.7 in the course textbook)
+(See section 1.7 in the course textbook, should
+ you choose to save the headache of reading this.)
 
 <---     Note from Gray Wave     --->
 
@@ -10,7 +11,7 @@ of multiple programming languages, until you decide which
 singular language you would like to get skilled in.
 
 You should always be working on developing your computational
-thinking skills. 
+thinking skills.
 
 <---     Programming Languages     --->
 
@@ -30,7 +31,7 @@ C++ -> Developed by Bjarne Stroustrup at Bell Labs
        extended the functionality and standard
        library of C.
 
-C# -> Microsoft's version of C. It is an OOP
+C# -> One of Microsoft's version of C. It is an OOP
       language generally used in game development.
       It has very similar syntax to Java.
 
@@ -49,8 +50,42 @@ Fortran -> This language's name is also an acronym
 JavaScript -> NOT TO BE CONFUSED WITH JAVA. JavaScript
               is the most widely-used scripting language.
               JavaScript has many applications in web 
-              development.
+              development as well as many different
+              frameworks.
 
-Objective-C -> 
+Objective-C -> An OOP C-based language. It is Apple's
+               additon/development of C.
 
->>>     Under Construction     <<<
+Pascal -> A structured programming language (a.k.a., not
+          OOP) developed in the 1971. It was commonly
+          used to teach the standard practices of 
+          structured programming.
+
+PHP -> Colloquially known as "the language that 
+       will never die," PHP is an abbreviation
+       for "Hypertext PreProcessor". It is an
+       object-oriented scripting language, similar
+       to JavaScript.
+
+Python -> An open-source, object-oriented scripting
+          language developed by Guido Van Rossum in 
+          1991. It is now the most widely-used 
+          programming language according to the
+          TIOBE Index... the book no longer is accurate.
+
+Ruby -> An open-source, object-oriented programming language
+        similar to Python, but is more widely used on the
+        Eastern side of the world. The book states that
+        it is great for web development.
+
+Scala -> An abbreviation for "Scaling Language," it 
+         can be used in conjunction with Java to 
+         drastically shrink file sizes.
+
+Swift -> Released in 2014 (rather recently!!!),
+         Swift is a language developed by Apple for
+         iOS devices such as iPhones and iPads.
+         According to the book, Swift is now open source!
+
+Visual Basic -> Microsoft language used for programming.
+                It is used to develop Windows applications.
