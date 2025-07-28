@@ -1,0 +1,15 @@
+
+<h1>Helpful Links for this Chapter</h1><br>
+<h2>Javadoc Links<h2>
+<a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html">Javadoc Home Page</a><br>
+<a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/toc.html">Javadoc Tabular Layout</a><br>
+<a href="https://docs.oracle.com/javase/8/docs/api/java/lang/System.html">Javadoc System Class</a><br>
+<a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html">Javadoc Math Class</a><br>
+<a href="https://docs.oracle.com/javase/tutorial/java/TOC.html">Javadoc Learning Roadmap</a><br>
+
+<h2>General Help Links</h2><br>
+<a href="https://cplusplus.com/reference/cstdio/printf/">Print Formatting Guide</a><br>
+<a href="https://www.ascii-code.com/">ASCII Table (Char datatype help)</a><br>
+<a href="https://deitel.com/java-how-to-program-11-e-early-objects-version/">Book Website</a><br>
+<a href="https://www.tiobe.com/tiobe-index/">TIOBE Index</a><br>
+<br>
