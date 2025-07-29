@@ -1,9 +1,5 @@
 
 # Order of Operations for Chapter 2 <br>
-<p>The order of operations serves as another <br>
-guide to navigate this course. This will help <br>
-decompose the homework, installs, et cetera into <br>
-more easily digestible chunks.<br></p>
 
 <h3>Steps for this Chapter</h3><br>
 <p><b>Step 1) </b>Read the assigned chapter. This may <br>
