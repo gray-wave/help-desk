@@ -2,12 +2,13 @@
 # Order of Operations for Chapter 2 <br>
 
 <h3>Steps for this Chapter</h3><br>
-<p><b>Step 1) </b>Read the assigned chapter. This may <br>
-seem obvious to some of you. Take handwritten notes if <br>
-you care about retaining information. <br>
+<p><b>Step 1) </b>Read the assigned chapter. <br>
+Take handwritten notes if you care about learning <br>
+the course content or retaining information. <br>
 <br>
-<b>Step 2) </b>Read the README for each chapter. I know, <br>
-it's a lot of reading, but you took Java. It is time consuming. <br>
+<b>Step 2) </b>Review Chapter 1 src/ directory <br>
+Be sure you understand what is going on in the Java <br>
+source code. <br>
 <br>
 <b>Step 3) </b>Attempt the homework questions on your own <br>
 before resorting to other resources. When you get stuck, <br>
