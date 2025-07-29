@@ -6,7 +6,7 @@
 Take handwritten notes if you care about learning <br>
 the course content or retaining information. <br>
 <br>
-<b>Step 2) </b>Review Chapter 1 src/ directory <br>
+<b>Step 2) </b>Review Chapter 1 src/ directory. <br>
 Be sure you understand what is going on in the Java <br>
 source code. <br>
 <br>
