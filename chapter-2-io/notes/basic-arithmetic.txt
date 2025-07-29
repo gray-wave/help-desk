@@ -1,0 +1,16 @@
+(See Section 2.11 in the textbook)
+In Java, we are capable of performing many different
+mathematical operations. This chapter introduces the
+basic arithmetic operators offered by Java. Later on
+in this course, you will see that we are barely
+scratching the surface of Java's math capabilities.
+
+Operator     Name        Function
+  "+"      Plus Sign     Adds two or more numbers
+  "-"      Minus Sign    Subtracts two or more numbers
+  "*"      Asterisk      Multiplies two or more numbers
+  "/"      Fwd Slash     Divides two numbers
+  "%"      Percent Sign  Referred to as "modulus" in programming,
+                         the percent sign returns the remainder of
+                         an "incomplete division" 
+                         (EX: 22 / 7... 22 % 7 returns 1)
