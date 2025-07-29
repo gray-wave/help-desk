@@ -19,6 +19,11 @@
 |  The textbook usually calls Scanner variables
 |  "input," but I like to use "in" to save some
 |  keystrokes.
+|
+|  The "System.in" part of the Scanner is known
+|  as the standard input object. You can think
+|  of this as the way of accessing stdin
+|  via the Java language.
 |  
 |  UNDER CONSTRUCTION
 |  
