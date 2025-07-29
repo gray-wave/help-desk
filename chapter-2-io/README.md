@@ -6,7 +6,7 @@
 Take handwritten notes if you care about learning <br>
 the course content or retaining information. <br>
 <br>
-<b>Step 2) </b>Review Chapter 1 src/ directory. <br>
+<b>Step 2) </b>Read through Chapter 1 src/ directory. <br>
 <br>
 Be sure you understand what is going on in the Java <br>
 source code. Also, the majority of the content present<br>
@@ -19,11 +19,14 @@ If you get stuck, check out the JavaDoc in the docs/ directory. <br>
 If you still find difficulty after consulting the JavaDoc, then...<br>
 <br>
 <b>Step 4) </b>Consult the notes/ directory. <br>
+<br>
 Double-check the notes/ directory. Review the prior chapter's <br>
 notes/ directory. 
 <br>
-<b>Step 5) </b>Refer to the src/ directory. <br>
+<b>Step 5) </b>As a last resort... <br>
 <br>
-through steps 1-4, check the <br>
-to view code written by yours, truly.</p><br>
+If you still find yourself struggling after going through<br>
+steps 1-4, refer to the src/ directory. It contains commented<br>
+Java source code that explains concepts.<br>
+
 <strong> ---  UNDER CONSTRUCTION   --- </strong>
