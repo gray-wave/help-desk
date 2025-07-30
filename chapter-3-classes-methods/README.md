@@ -16,7 +16,7 @@ definitions that may help you through this chapter. <br>
 <br>
 If you get stuck, the JavaDocs may not be much help at this point. <br> 
 So, re-read the notes/ directory. At this point, I'd recommend YouTube.<br>
-If you are still stuck...
+If you are still stuck...<br>
 <br>
 <b>Step 4) </b>Check out the src/ directory. <br>
 <br>
