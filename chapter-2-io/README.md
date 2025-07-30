@@ -22,7 +22,7 @@ If you still find difficulty after consulting the JavaDoc, then...<br>
 <b>Step 4) </b>Consult the notes/ directory. <br>
 <br>
 Double-check the notes/ directory. Review the prior chapter's <br>
-notes/ directory. 
+notes/ directory. <br>
 <br>
 <b>Step 5) </b>As a last resort... <br>
 <br>
