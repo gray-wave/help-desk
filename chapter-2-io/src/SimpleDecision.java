@@ -6,7 +6,7 @@
 import java.util.Scanner;
 public class SimpleDecision{
   public static void main(String[] args){
-    Scanner in = new Scanner(Sytem.in);
+    Scanner in = new Scanner(System.in);
     System.out.print("Enter two integer numbers: ");
     int num1 = in.nextInt();
     int num2 = in.nextInt();
