@@ -4,13 +4,27 @@ mathematical operations. This chapter introduces the
 basic arithmetic operators offered by Java. Later on
 in this course, you will see that we are barely
 scratching the surface of Java's math capabilities.
+Java follows conventional orders of algebraic 
+operations; you may have heard of this called
+"PEMDAS" -> Parenthesis, then
+            Exponents, then
+            Multiplication, then
+            Division, then
+            Addition, then
+            subtraction.
 
-Operator     Name        Function
-  "+"      Plus Sign     Adds two or more numbers
-  "-"      Minus Sign    Subtracts two or more numbers
-  "*"      Asterisk      Multiplies two or more numbers
-  "/"      Fwd Slash     Divides two numbers
-  "%"      Percent Sign  Referred to as "modulus" in programming,
-                         the percent sign returns the remainder of
-                         an "incomplete division" 
-                         (EX: 22 / 7... 22 % 7 returns 1)
+Operator       Name            Function
+  "+"        Plus Sign         Adds two or more numbers
+  "-"        Minus Sign        Subtracts two or more numbers
+  "*"        Asterisk          Multiplies two or more numbers
+  "/"        Fwd Slash         Divides two numbers
+  "%"        Percent Sign      Referred to as "modulus" in programming,
+                               the percent sign returns the remainder of
+                               an "incomplete division" 
+                               EX: 22 / 7... 22 % 7 returns 1
+
+" ( "      Open parenthesis    You can use parenthesis to change the
+" ) "      Close parenthesis   order of operations of an algebraic expression.
+                               So, if you wanted to add prior to multiplying...
+                               EX: ((3 + 2) * 3)... returns 15
+                               3 + 2 * 3... returns 9.
