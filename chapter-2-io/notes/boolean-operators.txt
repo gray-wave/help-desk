@@ -5,6 +5,32 @@ to state conditional logic, or you may already be
 familiar with the concept of "Decision Structures".
 There are only two possible outcomes with boolean
 algebra; a condition can be a true statement or
-a false statement.
+a false statement. These operators are used in 
+conjunction with if statements.
 
 Operator         Name            Function
+ " == "       Is equal to        Determines whether or not two
+                                 variables hold the same value.
+                                 If so, it will evaluate true.
+
+ " != "       Not equal to       Determines whether or not two
+                                 variables DO NOT hold the same
+                                 value. If so, it will evaluate true.
+
+ " > "        Greater than       Exclusive, if the left value is MORE
+                                 than the right value, it will evaluate
+                                 to true.
+
+ " < "        Less than          Exclusive, if the left value is LESS
+                                 than the right value, it will evaluate
+                                 to true.
+
+ " >= "       Greater than,      Inclusive, see "greater than".
+              or equal to
+
+ " <= "       Less than, or      Inclusive, see "less than".
+              equal to
+
+NOTE: A single equals sign is only used for variable assignment.
+These mistakes can lead to failure to compile, or syntax errors that
+eventually lead to logic errors.
