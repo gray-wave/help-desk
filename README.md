@@ -12,6 +12,6 @@ are on in the book. Then; </b><br>
 -- src/    ===> Source code (with comments)<br>
 <br>
 Unfortunately, GitHub does not allow the <br>
-sharing or storage on YouTube videos on <br>
+sharing or storage of YouTube videos on <br>
 their platform, so look up whatever extra<br>
 resources you may need.</p>
