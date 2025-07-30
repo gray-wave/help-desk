@@ -3,6 +3,7 @@
 
 <h3>Steps for this Chapter</h3>
 <p><b>Step 1) </b>Read the assigned chapter. <br>
+<br>
 Take handwritten notes if you care about learning <br>
 the course content or retaining information. <br>
 <br>
