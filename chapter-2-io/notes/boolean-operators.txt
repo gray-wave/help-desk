@@ -1,1 +1,10 @@
-asdf to be edited
+(See Section 2.8 in the textbook)
+In Java, we are capable of performing many different
+boolean algebraic operations. This is fancy jargon
+to state conditional logic, or you may already be
+familiar with the concept of "Decision Structures".
+There are only two possible outcomes with boolean
+algebra; a condition can be a true statement or
+a false statement.
+
+Operator         Name            Function
