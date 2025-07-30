@@ -1,4 +1,4 @@
-(See Section 2.11 in the textbook)
+(See Section 2.7 in the textbook)
 In Java, we are capable of performing many different
 mathematical operations. This chapter introduces the
 basic arithmetic operators offered by Java. Later on
