@@ -7,6 +7,9 @@
 |  System.out.println(), which can print multiple
 |  datatypes and appends a newline character to
 |  the end of whatever arguments specified.
+|  You can also input special characters prefaced
+|  by a backslash "\". These special characters
+|  are called "delimiters".
 |  (See: Line 41) ----
 |
 |  Next, there is System.out.print(), which also
@@ -27,6 +30,8 @@
 |  printf's format specifiers. It is technically for
 |  C/C++ languages, but the same format specifiers 
 |  apply to Java.
+|  
+|  >>>   UNDER CONSTRUCTION   <<<
 */
 public class FormatPrint {
   public static void main(String[] args){
@@ -39,5 +44,6 @@ public class FormatPrint {
     System.out.printf("%s%s%n", "Greetings, my name is ",name);     //printf example with just strings
     System.out.printf("%s%.2f%n", "My hourly wage is ",hourlyWage); //printf example with decimal numbers and strings.
     System.out.println(grade + "% is my current grade.");           //println example
+    System.out.println("Welcome\nto\nthis\ncourse\n");              //println example with formatting
   }
 }
