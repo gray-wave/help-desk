@@ -11,13 +11,13 @@ public class SimpleDecision{
     int num1 = in.nextInt();
     int num2 = in.nextInt();
     if (num1 == num2) {
-      System.out.printf("%d%s%d", num1, " is the same as ", num2);
+      System.out.printf("%d%s%d%n", num1, " is the same as ", num2);
         }
     if (num1 < num2) {
-      System.out.printf("%d%s%d", num1, " is less than ", num2);
+      System.out.printf("%d%s%d%n", num1, " is less than ", num2);
     }
     if (num1 > num2) {
-      System.out.printf("%d%s%d", num1, " is greater than", num2);
+      System.out.printf("%d%s%d%n", num1, " is greater than", num2);
     }
   }
 } 
