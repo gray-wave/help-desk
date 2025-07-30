@@ -14,18 +14,16 @@ definitions that may help you through this chapter. <br>
 <br>
 <b>Step 3) </b>Attempt the Homework. <br>
 <br>
-If you get stuck, check out the JavaDoc in the docs/ directory. <br> 
-If you still find difficulty after consulting the JavaDoc, then...<br>
+If you get stuck, the JavaDocs may not be much help at this point. <br> 
+So, re-read the notes/ directory. At this point, I'd recommend YouTube.<br>
+If you are still stuck...
 <br>
-<b>Step 4) </b>Consult the notes/ directory. <br>
+<b>Step 4) </b>Check out the src/ directory. <br>
 <br>
-Double-check the notes/ directory. Review the prior chapter's <br>
-notes/ directory. <br>
-<br>
-<b>Step 5) </b>As a last resort... <br>
-<br>
-If you still find yourself struggling after going through<br>
-steps 1-4, refer to the src/ directory. It contains commented<br>
-Java source code that explains concepts.<br>
+Once again, src/ directory contains commented code.<br>
+This section introduces using multiple files in order <br>
+to achieve a specific task.<br>
+I'll admit, it's easy to get lost in a sea of many files.<br>
+For this reason, we follow common naming conventions.<br>
 
 <strong> ---  UNDER CONSTRUCTION   --- </strong>
