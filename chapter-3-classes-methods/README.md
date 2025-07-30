@@ -22,8 +22,5 @@ If you are still stuck...<br>
 <br>
 Once again, src/ directory contains commented code.<br>
 This section introduces using multiple files in order <br>
-to achieve a specific task.<br>
-I'll admit, it's easy to get lost in a sea of many files.<br>
-For this reason, we follow common naming conventions.<br>
-
-<strong> ---  UNDER CONSTRUCTION   --- </strong>
+to achieve a specific task. The more files you have, <br>
+the greater the room for error becomes. <br>
