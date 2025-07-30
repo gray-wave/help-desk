@@ -1,5 +1,5 @@
 
-# Order of Operations for Chapter 2 <br>
+# Order of Operations for Chapter 3 <br>
 
 <h3>Steps for this Chapter</h3>
 <p><b>Step 1) </b>Read the assigned chapter. <br>
@@ -7,12 +7,10 @@
 Take handwritten notes if you care about learning <br>
 the course content or retaining information. <br>
 <br>
-<b>Step 2) </b>Read through Chapter 1 src/ directory. <br>
+<b>Step 2) </b>Read through notes/ directory. <br>
 <br>
-Be sure you understand what is going on in the Java <br>
-source code. Also, the majority of the content present<br>
-in chapter 1's src/ directory is actually covered in <br>
-chapter 2. <br>
+Notes directory contains some explanations and <br>
+definitions that may help you through this chapter. <br>
 <br>
 <b>Step 3) </b>Attempt the Homework. <br>
 <br>
