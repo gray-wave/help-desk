@@ -11,6 +11,7 @@ Began in 2025 by Gray Wave<br>
 section into digestible chunks. These will be located in the chapter<br>
 directories, easily accessed by scrolling down.</i><br>
 <h2>Directory Structure</h2><br>
+-- README  ===> Provides directions to each chapter<br>
 -- hw/     ===> Contains the numbers of chapter questions<br>
 -- notes/  ===> Further explanations and summaries<br>
 -- docs/   ===> Documentation<br>
