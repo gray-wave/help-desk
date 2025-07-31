@@ -1,7 +1,7 @@
 
 # ***help-desk*** 
-<p>Learning Repository for Academic Help <br>
-  Began in 2025 by Gray Wave</p><br>
+Learning Repository for Academic Help <br>
+Began in 2025 by Gray Wave<br>
 <h2>Directory Navigation</h2><br>
 <p>First, select whichever chapter you are on in the book. Then; <br>
 <br>  
