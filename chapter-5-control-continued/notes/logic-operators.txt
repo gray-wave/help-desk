@@ -1,0 +1,55 @@
+We will talk about the many different logical operators
+in this chapter. These boolean expressions result in a boolean true, 
+or a boolean false. Recall that Booleans in Java are not
+a numeric datatype, as they are in many other languages.
+
+Other languages do 0s or 1s. Java literally does true/false.
+This is a slight inefficiency as 8 bits are allocated for
+an otherwise (in other languages) a 1 bit datatype. 
+They are read/interpreted from left to right.
+The order of operations is "NAO" (pronounced "now").
+Not happens first " ! " 
+And happens next  " & ", " && "
+Or  happens last  " | ", " || "
+
+The simplest logical operator to explain is the NOT
+operator. The " ! " operator. Whatever boolean value,
+you just take and flip.
+
+The truth table is as follows:
+
+        P    R
+---------------------------
+        0    1
+        1    0
+
+The " && " operator. It's the AND boolean expression. 
+This can be thought of as the "if and only if" operator. 
+Only if both boolean conditions are true, the "and logical expression"
+will be true as well.
+
+The truth table is as follows:
+
+        P    Q    R
+--------------------------
+        0    0    0
+        1    0    0
+        0    1    0
+        1    1    1
+
+The next simplest to explain (and Gray-Wave's personal
+favorite) is the " || " or operator. This is the OR boolean 
+expression. This can be thought of as the "this or that"
+operator. If one of two conditions is true, the "or logical
+expression" will be true as well.
+
+The truth table is as follows:
+
+        P    Q    R
+---------------------------
+        0    0    0
+        1    0    1
+        0    1    1
+        1    1    1
+
+UNDER CONSTRUCTION
