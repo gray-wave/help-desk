@@ -1,0 +1,28 @@
+>>> UNDER CONSTRUCTION <<<
+Today class, we will learn about encapsulation.
+
+Data becomes "encapsulated" when we have the private scope
+variable applied. That means it's trapped within the class.
+
+The only way to access private variables is via these so-called
+"set" and "get" methods. They are aptly named, as you are soon
+to find.
+
+Set methods take any number of arguments as parameters, and store
+that information into an object... from my understanding.
+
+As an example, let's say we have a class that is for employees.
+We would need to set the employee name (as a string, but of course)
+as well as their salary (as some numeric datatype).
+
+So in our "class file," ... <==========
+
+Get methods' sole purpose is to RETURN whatever data has been set.
+
+Are these useful? Not necessarily. I figure set methods are more
+useful than get methods, as get methods almost function similarly
+to the ever-famous "debugging print".
+
+The textbook has a great visual diagram of what I mean by 
+"encapsulation".
+
