@@ -15,6 +15,8 @@ We would need to set the employee name (as a string, but of course)
 as well as their salary (as some numeric datatype).
 
 So in our "class file," ... <==========
+=====> a.k.a. not our "driver class file" containing
+       our public static void main...
 
 Get methods' sole purpose is to RETURN whatever data has been set.
 
@@ -23,7 +25,8 @@ useful than get methods, as get methods almost function similarly
 to the ever-famous "debugging print".
 
 The textbook has a great visual diagram of what I mean by 
-"encapsulation".
+"encapsulation". I'll give you the page number when I actually
+care to find it. I'm too busy getting caught up in calculus.
 
 It is easy to know what the difference between set and get methods.
 Set methods require a parameter, or an argument. We still don't know
@@ -36,6 +39,12 @@ public void set(varName){
 }
 
 there you go. It sets a class variable.
+the (varName) in parenthesis requires a datatype.
+Otherwise, Java with Ant will throw a fit.
+Other JDKs like maven and gradle don't care.
+But this is a difficult course that requires
+a conceptual understanding of what we are
+doing with Object Oriented Programming.
 
 Here is the difference between Set and Get methods.
 A GET method simply returns one of these so-called
@@ -54,3 +63,4 @@ variable we have previously established.
 
 Good Luck fellow Java users.
 This language is dying.
+So am I. Quicker than you.
