@@ -64,7 +64,9 @@ and the ((varName)) is a better way of
 writing your code so you know which
 value or whatever you're getting.
 We'll get into more later.
-Just kno GET METHODS are important.
+Just know GET METHODS are important.
+GET METHODS RETURN.
+GET METHODS RETURN.
 
 Good Luck fellow Java users.
 This language is dying.
