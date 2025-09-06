@@ -53,13 +53,18 @@ of computer science terms too.
 
 here is the syntax for get methods.
 
-public [dataType] get(){
+public [dataType] get((varName))(){
   return this.varName;
 }
 
 where [dataType] is the type of the return
 variable, and the varName is the private 
 variable we have previously established.
+and the ((varName)) is a better way of 
+writing your code so you know which
+value or whatever you're getting.
+We'll get into more later.
+Just kno GET METHODS are important.
 
 Good Luck fellow Java users.
 This language is dying.
