@@ -41,7 +41,7 @@ double salary3;
 
 if (salary <= 13000) {
   System.out.println("You are a member of the lower income tax bracket");
-} else if (13000 < salary <= 67000) {
+} else if (salar > 13000 && salary <= 67000) {                           // 'compound' boolean, short-circuit AND expression
   System.out.println("You are a member of the middle income tax bracket");
 } else {
   System.out.println("You are a member of the high income tax bracket"); // note that this else encompasses all cases above 67000. Why?
@@ -50,3 +50,4 @@ if (salary <= 13000) {
 // I will have to check to see if this works, but I have homework to do.
 // Good luck, fellow students.
 
+// UNDER CONSTRUCTION WHILE GOES DOWN BELOW
