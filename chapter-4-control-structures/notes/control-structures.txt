@@ -1,0 +1,38 @@
+UNDER CONSTRUCTION AS OF 9/7/25
+Okay class,
+
+Today we are going to learn about control structures. 
+Yippie!!! Hooray!!! 
+
+What are control structures, you may find yourself asking yourself,
+well, allow me to answer that burning question.
+
+Control structures use boolean expressions (BOOLEAN RECALL: truth tables.)
+to change what path or tree (or whatever the case may be) your program takes.
+
+In python, you may recall using the keywords "if", "elif", and "else". It 
+is very similar within Java, however, Java does NOT use "elif" as a keyword.
+
+Instead, you must use the 'compound' (in quotes because this is not the proper
+term for this.) keywords else + if.
+
+Here's some example syntax of Java's super cool if statements.
+
+double salary1;
+double salary2;
+double salary3;
+// assume salary1 has been set to 12,000.35
+// assume salary2 has been set to 65327.87
+// assume salary3 has been set to 101,504.36
+// also recall our encapsulation chat from last week.
+
+if (salary <= 13000) {
+  System.out.println("You are a member of the lower income tax bracket");
+} else if (13000 < salary <= 67000) {
+  System.out.println("You are a member of the middle income tax bracket");
+} else {
+  System.out.println("You are a member of the high income tax bracket"); // note that this else encompasses all cases above 67000. Why?
+}
+
+// I will have to check to see if this works, but I have homework to do.
+// Good luck, fellow students.
