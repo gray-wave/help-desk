@@ -1,14 +1,27 @@
 UNDER CONSTRUCTION AS OF 9/7/25
+TODO: check formatting 
+      update src/ code
+      add while loop section to this document.
+
 Okay class,
 
 Today we are going to learn about control structures. 
 Yippie!!! Hooray!!! 
+What are control structures, you may find yourself asking yourself.
+Well, allow me to answer that burning question.
 
-What are control structures, you may find yourself asking yourself,
-well, allow me to answer that burning question.
+Programs have 3 different "types," if you will,
+of control flow operation. These three types are:
+1) Sequence   ( A -> B -> C... program terminates )
+2) Decision   ( if A == true -> B else -> C ...program terminates )
+3) Repetition ( do A while some boolean condition -> B 
+                                                  -> B 
+                                                  -> B ...exit 
+                                                  -> C ...program terminates )
 
-Control structures use boolean expressions (BOOLEAN RECALL: truth tables.)
-to change what path or tree (or whatever the case may be) your program takes.
+Control structures use boolean expressions or sometimes arithmetic
+operations to change what path or tree (or whatever the case may be) 
+your program takes.
 
 In python, you may recall using the keywords "if", "elif", and "else". It 
 is very similar within Java, however, Java does NOT use "elif" as a keyword.
@@ -36,3 +49,4 @@ if (salary <= 13000) {
 
 // I will have to check to see if this works, but I have homework to do.
 // Good luck, fellow students.
+
