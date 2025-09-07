@@ -1,0 +1,19 @@
+Okay class,
+today we are going to talk about compound operators. 
+
+Java has ways of shortening certain operands such that
+code can be more compact (not like an SUV), and more
+easily read by the user/programmer/computer user. That's
+us, in most cases.
+
++=
+-=
+*=
+/=
+%=
+
+See figure 4.13 in the textbook for better explanations than I 
+can offer you here.
+
+These are good for repetition structures. See control-structures.txt
+for more information.
