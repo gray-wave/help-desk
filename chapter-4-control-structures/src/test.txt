@@ -1,1 +1,0 @@
-whoops gotta do loops and multi alternative ifs
