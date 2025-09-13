@@ -4,9 +4,9 @@
 <a href>Click Me!</a><br>
 <a href>Click Me!</a><br>
 <h3>General Steps for Success</h3><br>
-<p><b>Step 1)</b> 
-<b>Step 2) </b> 
-<b>Step 3) </b></p>
+<p><b>Step 1) </b><br> 
+<b>Step 2) </b><br> 
+<b>Step 3) </b><br></p>
 <h3>Steps for this Course</h3><br>
 <p><b>Step 1) </b>Read the assigned chapter. This may <br>
 seem obvious to some of you. Take handwritten notes if <br>
