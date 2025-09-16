@@ -6,6 +6,7 @@ a numeric datatype, as they are in many other languages.
 Other languages do 0s or 1s. Java literally does true/false.
 This is a slight inefficiency as 8 bits are allocated for
 an otherwise (in other languages) a 1 bit datatype. 
+
 They are read/interpreted from left to right.
 The order of operations is "NAO" (pronounced "now").
 Not happens first " ! " 
@@ -52,4 +53,25 @@ The truth table is as follows:
         0    1    1
         1    1    1
 
-UNDER CONSTRUCTION
+Now on to the more difficult boolean operators. The next
+boolean operator we will talk about is the " ^ " operand.
+This is the exclusive or operator, which performs an
+XOR boolean expression. This results in a boolean true
+if and only if "this" or "that." 
+
+The truth table is as follows:
+
+        P    Q    R
+---------------------------
+        0    0    0
+        1    0    1
+        0    1    1
+        1    1    0
+
+Lastly, the "&" and "|" boolean operands function 
+identically to their corresponding 'doubled' counterpart,
+except for the fact that they will always evaluate both
+conditions. No short-circuit expression is the big
+takeaway here.
+
+--Gray Wave
