@@ -1,0 +1,57 @@
+---   UNDER CONSTRUCTION   ---
+Alright so today class, we're gonna be talking about
+more control structures than just simple while and ifs.
+
+This chapter introduces a plethora of fun new keywords
+that can change the flow of control through your program.
+
+<!---   We begin with a quick review of while loops.   --->
+  
+While loops can be controlled by certain specific
+boolean conditions. While true executes until something
+happens in your program to make it false.
+There are 3 specific cases:
+A) Counter controlled  ---> while (i <= 10)
+B) Sentinel controlled ---> while (user != 0)
+C) EOF controlled...   ---> while ... something idk Haven't really messed with EOF controlled loops too much.
+
+<!---   The next loop this chapter introduces are the for loops.   --->
+
+For loops are iterative, which by that I mean can only
+be counter-controlled (we will see later that there are
+some cases in which this is not necessarily true).
+
+The use of a for loop requires the "instantiation" and
+declaration of an iterator (by convention, usually "i",
+"idx", "count"), a loop exit/termination condition (some
+boolean expression (EX: i <= 10 ) ), and an incrementing
+or decrementing statement. The book calls these the control variable, 
+loop-continuation condition, and increment, respectively.
+
+here's an example of a for loop in syntactic action:
+  
+for (int i=1; i <=10; i++){ loop body }
+
+The most common logic error associated with for loops is
+the ever-plaguing "off by one" error, in which the loop runs
+one more time or one less time than the programmer had intended.
+
+<!---   Next on our list is the do while iteration / repetition structure   --->
+
+Kinda similar to while loops, the only difference is that do while executes
+at least once. I'll leave it up to you to experiment with these. Most if not 
+all problems that you solve with a do while can be solved with a while... 
+but I digress.
+
+here's an example of a do while in syntactic action:
+
+do {loop body; i++;} while (i <= 10)
+
+<!---   Switch Case (no, not like Nintendo) multi alternative decision structure   --->
+
+Switch cases are just more complex ifs that weigh numerical data as opposed
+to boolean conditions. These can be useful if that boolean logic nonsense
+doesn't make much sense. (Gray Wave side note - i love me some boolean arithmetic).
+
+Too lazy right now to elaborate any further upon switch cases. Gotta get back
+to my javaFX case studies...
