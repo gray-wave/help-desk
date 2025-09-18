@@ -10,10 +10,11 @@ that can change the flow of control through your program.
 While loops can be controlled by certain specific
 boolean conditions. While true executes until something
 happens in your program to make it false.
-There are 3 specific cases:
+There are 4 specific cases:
 A) Counter controlled  ---> while (i <= 10)
 B) Sentinel controlled ---> while (user != 0)
-C) EOF controlled...   ---> while ... something idk Haven't really messed with EOF controlled loops too much.
+C) Flag-controlled     ---> while (true) ... if (some condition) { falsify while loop }
+D) EOF controlled...   ---> while ... something idk Haven't really messed with EOF controlled loops too much.
 
 <!---   The next loop this chapter introduces are the for loops.   --->
 
