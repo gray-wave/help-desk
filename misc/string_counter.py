@@ -1,7 +1,7 @@
 # char counter
 
 def counter(a: list) -> int:
-    return int(len(a))
+    return int(len(a)-1) # whoops
 
 def loop():
     dummy = int(input("Enter positive integer to continue\t"))
