@@ -1,5 +1,4 @@
 [graywave note to self - I should probably add these for each chapter.]
-[graywave note to self - gotta add java util random and security to links.]
 >>>   UNDER CONSTRUCTION   <<<
 
 1) Big concept of static methods and fields
