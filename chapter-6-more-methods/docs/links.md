@@ -10,7 +10,7 @@
 <a href="https://docs.oracle.com/javase/8/docs/api/java/security/package-summary.html">Javadoc Security Package</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/java/security/SecureRandom.html">Javadoc SecureRandom</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html">All Java Classes</a><br>
-
+<a href="https://docs.oracle.com/javase/8/docs/api/">Java API</a><br>
 <h2>General Help Links</h2><br>
 <a href="https://cplusplus.com/reference/cstdio/printf/">Print Formatting Guide</a><br>
 <a href="https://www.ascii-code.com/">ASCII Table (Char datatype help)</a><br>
