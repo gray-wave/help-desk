@@ -8,13 +8,18 @@ the course content or retaining information. <br>
 <br>
 <b>Step 2) </b>Read through notes/ directory. <br>
 <br>
-<strong>UNDER CONSTRUCT</strong> <br>
+<strong>UNDER CONSTRUCT</strong><br>
 <br>
 <b>Step 3) </b>Attempt the Homework. <br>
 <br>
-Homework for this chapter should be easy.<br>
+Homework for this chapter is not going to be easy. We have<br>
+many problems, as you're soon to find. 
 <br>
 <b>Step 4) </b>Check out the src/ directory. <br>
+Unfortunately, I have a horrible habit of posting the<br>
+contents of the source "src/" directory usually after the <br>
+homework is due. This chapter, I'll do my best to get them <br>
+posted before the weekend, but no guarantees.<br>
 <br>
 Once again, src/ directory contains commented code.<br>
 This section introduces using multiple parameter methods. <br>
