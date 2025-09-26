@@ -1,0 +1,27 @@
+A few questions of this week's homework require the usage
+of Java's SecureRandom() class. This file will attempt to 
+be as clear and concise as possible.
+
+In order to generate random numbers, you need to do 3 steps.
+
+1) Import the class. This is done using the statement:
+
+   import java.security.SecureRandom;
+
+2) After that, we must instantiate an object of the class:
+
+   SecureRandom [variableName] = new SecureRandom();
+   
+   Where variableName is any variableName of your choosing.
+
+3) Assign the randomly generated number to a variable.
+
+   [dataType] [variableName2] = [variableName].next[dataType]();
+   
+   Where dataType is whatever type of number (int, float, etc.),
+   variableName2 is where the random number is stored,
+   variableName is the same object of SecureRandom(),
+   .next[dataType]() is the method to generate the random number.
+
+class SecureRandom extends class Random... so it INHERITS all of Random's
+attributes and methods ;)
