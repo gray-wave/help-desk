@@ -1,0 +1,29 @@
+---   Under Construction   ---
+In this chapter, we discuss the importance of static methods.
+All executable Java programs exist within what is called the
+Java Virtual Machine (JVM). The JVM can be accessed many 
+different ways. One example of accessing JVM is from the 
+command line (Command prompt on Windows, Terminal Emulator
+on Mac and Linux). Another example, which we are familiar 
+with, is from an IDE. 
+
+When parsing Java files, the JVM searches for a particular
+method... "main." We have always declared main using the 
+keywords:
+
+public static void main
+
+But what do they mean? This section of the chapter sheds light
+on the importance of static in Java.
+
+Static ===> Can be accessed without instantiating an object
+of the class.
+
+Static methods can be declared in other classes are also extremely
+important. We can work around creating entire objects of the separate
+class file using static methods! So, instead of using the new keyword,
+we can access    public static    methods using ClassName.methodName().
+This is the dot "." notation. 
+
+When declaring static methods, they can either be declared prior to 
+the main method, or anywhere in a separate class file. 
