@@ -14,7 +14,7 @@ the notes/ directory if you have the time. <br>
 <b>Step 3) </b>Attempt the Homework. <br>
 <br>
 Homework for this chapter is not going to be easy. We have<br>
-many problems, as you're soon to find. 
+many problems, as you're soon to find. <br>
 <br>
 <b>Step 4) </b>Check out the src/ directory. <br>
 <br>
