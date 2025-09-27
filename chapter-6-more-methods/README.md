@@ -17,6 +17,7 @@ Homework for this chapter is not going to be easy. We have<br>
 many problems, as you're soon to find. 
 <br>
 <b>Step 4) </b>Check out the src/ directory. <br>
+<br>
 Unfortunately, I have a horrible habit of posting the<br>
 contents of the source "src/" directory usually after the <br>
 homework is due. This chapter, I'll do my best to get them <br>
