@@ -67,7 +67,7 @@ public class Gamble {               // Class that only has methods
         System.out.println();
     }
     
-    // Driver class. Asks the user to gamble
+    // Main method. Asks the user to gamble
     
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
