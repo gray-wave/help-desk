@@ -27,9 +27,9 @@
 |   a relatively professional github account]
 */
 
-import java.security.SecureRandom;  // here is the secure random import statement
-import java.util.Scanner;           // don't know if I'll need this
-public class Gamble {               // our class that only has methods
+import java.security.SecureRandom;  // Here is the secure random import statement
+import java.util.Scanner;           // For user interaction and Stdin
+public class Gamble {               // Class that only has methods
     // Below is a method to generate a random number 1-70. We will call this
     // method multiple times using a for loop later.
     
