@@ -47,8 +47,8 @@ public class Gamble {               // our class that has attributes and methods
     }
     
     // Below is the method to actually print the lottery numbers.
-    // Everything present in this method except for one line is expected
-    // priot knowledge.
+    // Everything present in this method except for two lines is expected
+    // prior knowledge.
     
     public static void printNumbers(){
         System.out.println("-----------------------------");
