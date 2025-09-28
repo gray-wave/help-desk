@@ -1,10 +1,15 @@
----under construction---
-TO-DO:
-6 hrs Java beginning 8 am
-  ---2 hours programming
-  ---2 hours notes
-  ---2 hours github contributing
-4 hrs C++ after lunch(?)
-4 hrs astronomy
-  ---2 hours note-taking
-  ---2 hours cheat sheet making
+CH 7 Learning Objectives
+
+1) Learn how to use arrays to store data in and retrieve data out
+2) Learn how to declare arrays, initialize them, and refer to 
+   individual elements of arrays.
+3) Learn how to iterate through arrays using enhanced for
+   loop statements
+4) Learn how to pass arrays to methods
+5) Learn how to declare and manipulate multi-dimensional arrays
+6) Learn how to use varying length argument lists
+7) Learn how to read command line arguments into a program
+8) Learn how to perform common array manipulations with
+   the methods of class Array
+9) Learn how to use class ArrayList to manipulate dynamically
+   resizeable array-like data structures.
