@@ -4,6 +4,8 @@
 <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/System.html">Javadoc System Class</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html">Javadoc Math Class</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/Array.html">Javadoc Array Class</a><br>
+<a href="https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html">Javadoc Arrays Class</a><br>
+<a href="https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html">Javadoc ArrayList</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html">All Java Classes</a><br>
 <br>
 <h2>General Help Links</h2><br>
