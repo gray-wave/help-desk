@@ -1,0 +1,20 @@
+Alright Class, here's a brand new thing I just learnt.
+
+If you want a method with varying amounts of arguments
+passed to it (actual parameters to your formal parameter
+list), you can use the datatype and the ellipsis "..."
+to accept multiple arguments to a method.
+
+Quick syntax example:
+
+public static int adder(int...operand){
+  int sumOfArguments = 0;
+  for (int a : operand){
+    sumOfArguments += a;
+  }
+  return sumOfArguments;
+}
+
+It's so easy, a caveman could do it.
+Works well with dynamic arrays and
+sentinel-controlled loops.
