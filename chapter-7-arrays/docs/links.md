@@ -3,8 +3,8 @@
 <a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html">Javadoc Home Page</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/System.html">Javadoc System Class</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html">Javadoc Math Class</a><br>
-<a href="https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html">All Java Classes</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/Array.html">Javadoc Array Class</a><br>
+<a href="https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html">All Java Classes</a><br>
 <br>
 <h2>General Help Links</h2><br>
 <a href="https://en.wikipedia.org/wiki/Computer">Help Computer</a><br>
