@@ -1,0 +1,22 @@
+--- NOT DONE YET ---
+
+So, to declare and initialize a 2-D array,
+the programmer must specify in the array
+declaration statement that the array object
+has both rows and columns (x's and y's), like so:
+
+int arr[][] = new int[#][#];
+
+Where the hashtags("#")/pound signs/thing that
+comes after c in c# represent the respective
+number of rows and columns.
+
+In order to access the elements of these rows
+and columns, the programmer must use a nested repetition
+structure. The inner loop (columns) should be bounded by 
+the max number of rows (outer loop) that have been iterated
+through.
+
+[gray-wave note: Example to follow]
+
+Still haven't read Chapter 8, yet.
