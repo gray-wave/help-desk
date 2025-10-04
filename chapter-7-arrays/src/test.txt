@@ -1,0 +1,7 @@
+here we will eventually have a randomly
+generated random single dimensional array
+that prints its contents all purty-like.
+
+i remember one day maybe was the best day of my life
+
+test to establish src/ directory
