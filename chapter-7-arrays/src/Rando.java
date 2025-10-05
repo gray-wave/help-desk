@@ -1,23 +1,10 @@
 /*
-|  --- under construction ---
-|  Check this. 
-|  Also I just learned like a bunch of Rage Against the Machine basslines.
-|  
-|  Might purchase a 6-string bass today... depends on whether or not my
-|  scratch-off lottery tickets are winners. Still have yet to learn 
-|  audacity for a stupid music project I've been putting off for months.
-|  Once again, has nothing to do with Java. None of this block comment does.
-|  
-|  Alright what sort of nonsensical brainrot should I reference
-|  here? Time to take copious amounts of benadryl and talk to
-|  the hat man, just in time for Halloween! Diphenhydramine abuse yippie!
-|  
-|  This has never been a drill. Instagram reels are eating up my time,
-|  and so are the scratchers.
-| 
-|  500 cigarettes.
-|  White monster drinkin' white monster until it creates another white monster.
 |  Commented code below.
+|
+|  Also, totally won $10 off a two dollar scratcher.
+|  Never quit on a hot streak.
+|
+|  ~~~   gray-wave   ~~~
 */
 import java.security.SecureRandom;
 public class Rando {
@@ -30,7 +17,7 @@ public class Rando {
         // standard for loop for loading the array
         for (int i = 0; i < len; i++){
             int member = r.nextInt(0,99);   // creating a two digit number every iteration
-            arr[i] = member;                // loading array with members (tee hee, lmao)
+            arr[i] = member;                // loading array with members
         }
         
         // Table "heading" for pretty printing
@@ -39,7 +26,7 @@ public class Rando {
         // enhanced for loop
         for (int num : arr){
             System.out.printf("%d\t%d%n",idx,num);
-            idx++;      // possibly unneeded variable
+            idx++;      // possibly excessive variable
         }
     }
 }
