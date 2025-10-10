@@ -1,0 +1,8 @@
+In Apache NetBeans IDE, a there are a couple of convenient
+keyboard shortcuts that can save you precious time.
+
+I believe I uploaded a .pdf containing a full list of
+all NetBeans keyboard shortcuts in chapter-1-foundations.
+
+psvm + TAB ===> public static void main(String[] args)
+sout + TAB ===> System.out.println("");
