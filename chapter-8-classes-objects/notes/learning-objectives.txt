@@ -1,0 +1,8 @@
+1) Learn additional details regarding class declarations
+2) Learn how to use the "throw" keyword to indicate errors
+3) Learn the usage of "this" keyword within a constructor
+4) Learn how to use static attributes and methods
+5) Learn how to import static members of a class
+6) Learn how to use the "enum" type to create sets of constants
+7) Learn the similarities between enums and classes
+8) Learn how to use BigDecimal for precise monetary calculations
