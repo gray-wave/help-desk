@@ -1,0 +1,7 @@
+1) Understand what inheritance is and why it is important to Object Oriented Programming (OOP)
+2) Learn what superclasses and subclasses are and how they are related
+3) Learn how to use the "extends" keyword to inherit attributes and methods
+4) Learn how to use the access modifier "protected"
+5) Learn how to use "super" keyword to access members of a superclass from a subclass
+6) Learn how constructors are used in inheritance hierarchies
+7) Learn some of the methods of class Object
