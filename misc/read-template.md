@@ -1,9 +1,6 @@
 
 # Order of Operations for Chapter n <br>
-<p></p>
-<a href>Click Me!</a><br>
-<a href>Click Me!</a><br>
-<h3>General Steps for Success</h3><br>
+
 <p><b>Step 1) </b><br> 
 <b>Step 2) </b><br> 
 <b>Step 3) </b><br></p>
