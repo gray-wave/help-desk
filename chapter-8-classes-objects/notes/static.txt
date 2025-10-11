@@ -1,0 +1,31 @@
+It's 4:30 in the morning. Perfect time for Java.
+I've been wide awake since 2:30. 
+
+Let's talk about the "static" keyword, and its 
+importance in this beautiful object-oriented, extensible
+language.
+
+In super simple terms, static means "instantiated in place."
+What is meant by this is that an object of the class need
+not be created in order to access a static attribute or method.
+A static attribute or method exists solely as a member of
+a class. 
+
+Static attributes declared as instance variables will
+exist for the entire object of a class, and must be modified
+via the member access operator "." (a dot, period, other
+synonyms for end-of-sentence punctuation mark).
+
+Any instance of a static attribute or method exists
+as soon as an object of a class is loaded into memory.
+
+So-called "this references" cannot be used with static.
+
+Static method import declarations allow you to access a
+classes static methods without the usage of the member
+access operator. So instead of writing "Math.pow(param1,param2)",
+you could just say "pow(param1,param2)" with a proper static
+method import declaration.
+
+We talked a little about static back in chapter 6. I suggest
+you review and revisit chapter 6 if you are still lost.
