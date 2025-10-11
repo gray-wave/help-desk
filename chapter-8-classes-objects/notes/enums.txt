@@ -1,0 +1,13 @@
+Chapter 8 expands on enum types.
+
+An enum is a set of named constants. It shares
+many similarities with classes in that it can
+have attributes and methods... and that's where
+I'll leave this for now.
+
+[gray-wave note: i may have to fall back
+ to sleep. this weekend is going to be
+ nothing but work... ugh. gag me with a
+ spoon. the trout population will be
+ severely impacted. Gotta get back to
+ Instagram reels until I fall asleep.]
