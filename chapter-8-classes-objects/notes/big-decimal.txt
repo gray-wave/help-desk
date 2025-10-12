@@ -1,0 +1,17 @@
+---   NOT FINISHED YET   ---
+
+Okay class. It's time to learn about BIG decimals.
+And they are a BIG pain.
+
+When you instantiate an object of class BigDecimal,
+its "datatype" becomes that of a BigDecimal. So, instead
+of being able to use standard, primitive type operations,
+all of the mathematical operations must be performed with
+methods of class BigDecimal.
+
+This means you CANNOT use "+", "-", "*", "/", or "%".
+This means you CANNOT use "<", ">", "<=", ">=", "!=", or "==".
+
+Be extremely careful before you decide to promote a double
+to a big integer.
+
