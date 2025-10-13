@@ -1,0 +1,20 @@
+---   UNDER CONSTRUCTION   ---
+So, today class, we are going to discuss INHERITANCE.
+This is an extremely important concept in object-oriented
+programming. It is one of the four pillars of OOP...
+
+Inheritance is the ability of a class to copy the 
+behavior of another class. There is plenty of vocabulary
+that comes along with this novel concept.
+
+Superclass: A class that "donates" attributes and methods.
+Subclass: The class that actually does the inheriting of
+          pre-existing attributes and methods.
+Base Class: Another name for a superclass, usually in a
+          C++ context.
+Derived Class: Another name for a subclass, usually in a
+          C++ context.
+Specialization: Another name for the concept of inheritance,
+          the subclass exhibits behaviors of its superclass
+          and can modify those behaviors to be more tailored
+          to objects of the subclass.
