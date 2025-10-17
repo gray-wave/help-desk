@@ -1,0 +1,34 @@
+Today, class, we're gonna talk about something
+us "computer scientists" all know a whole lot about.
+That's right, relationships!
+
+We're gonna be talking about the birds 
+and the bees, we're gonna be talking about
+treating your partner right, we're gonna be talkng
+about fun date ideas, and... wait a minute. That
+has nothing to do with Java.
+
+There are (thus far) two important distinctions
+to make within relationships in Java. These are
+as follows:
+
+1) is-a
+2) has-a
+
+An "is-a" relationship pertains to inheritance, perchance.
+A square "is-a" two dimensional shape, and a two dimensional
+shape "is-a" shape.
+
+In Java terms, 
+class Square extends TwoDShape { //blah blah blah
+class TwoDShape extends Shape { //blah blah blah
+
+A "has-a" relationship refers to attributes. 
+A square "has-a" name, a square "has-a" set number
+of sides, and a square "has-an" area equal to one of its
+sides squared.
+
+In Java terms, 
+String name; 
+int numSides;
+double area = Math.pow(sideLength, 2);
