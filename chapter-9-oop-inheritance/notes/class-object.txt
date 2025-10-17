@@ -1,0 +1,32 @@
+--- UNDER CONSTRUCTION ---
+Okay class, all my scratch-off lottery tickets were
+losers once again. That's $400 I'll never see again.
+
+That being said, $50 worth of Culver's butterburgers and
+fries cured what ailed me. It's this terminal disease
+called life...
+
+BACK TO JAVA
+
+As previously stated in "inheritance.txt", all classes
+in Java extend class Object implicitly. By default, all
+classes are objects, and objects of classes are also
+objects... Now we're REALLY thinkin' like computer scientists!
+
+So, implicitly, all classes inherit the methods of class object.
+Figure 9.12 in the book as well as Object JavaDoc give a summary
+of these methods. I'll talk about a few of them here, but for
+the rest of them, you're on your own.
+
+obj1.equals(obj2) method returns a boolean if one object is identical
+to another; it takes an object as an argument. So if two objects
+have the same attributes and methods and have the same reference
+in memory, it will return true. Otherwise, it returns false.
+Using clone method or omitting new keyword upon instantiation
+of an object is how to create a so-called deep copy of an object.
+
+obj1.toString() method returns a string representation of an
+object... this usually results in the class name with its
+memory address appended to the end.
+
+~~~   gray-wave note to self... add finalize   ~~~
