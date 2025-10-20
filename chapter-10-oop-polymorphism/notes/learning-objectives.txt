@@ -1,0 +1,12 @@
+Learning Objectives for Chapter 10
+1) Learn the OOP concept of polymorphism, one of the
+   four pillars of OOP
+2) Learn how method overriding affects polymorphism
+3) Learn the difference between abstract classes
+   and concrete classes
+4) Learn how to declare abstract classes and concrete
+   classes
+5) Learn how polymorphism impacts code extensibility
+   and maintenance
+6) Learn how to determine an object's type at runtime
+7) Learn how to declare and implement interfaces
