@@ -5,6 +5,7 @@
 <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html">Javadoc Math Class</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html">Javadoc Object Class</a><br>
 <a href="https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html">All Java Classes</a><br>
+<b><a href="https://docs.oracle.com/javase/8/javase-clienttechnologies.htm">Javadoc GUI</a></b>
 <br>
 <a href="https://www.pragmaticcoding.ca/beginners/intro">Pragmatic Coding</a><br>
 <strong>   ---UNDER CONSTRUCTION---   </strong>
