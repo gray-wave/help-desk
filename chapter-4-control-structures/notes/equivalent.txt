@@ -1,0 +1,12 @@
+For and while loops can be used interchangeably.
+
+for (start, stop, step)
+    sequence to repeat
+
+is the same as saying
+
+start
+while (stop) {
+    sequence to repeat
+    step
+    }
