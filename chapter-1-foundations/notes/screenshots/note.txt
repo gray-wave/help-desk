@@ -1,3 +1,10 @@
-Need to add screenshots here
-Don't know what format is best for
-GitHub... gonna hafta look that up.
+Ran into a small issue here. 
+NetBeans IDE versions 20+ do NOT like being downloaded
+to MacOS 26 and above. The .dmg doesn't work, the .zip
+doesn't work, attempting to build from a binary doesn't
+work.
+
+So i think solving this problem is my ultimate wish.
+
+Welcome back from hiatus, gray-wave. We've been
+expecting you.
