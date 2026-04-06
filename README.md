@@ -1,7 +1,8 @@
-
+---
 # ***help-desk*** 
 Learning Repository for Academic Help <br>
 Began in 2025 by Gray Wave<br>
+---
 <h2>Directory Navigation</h2>
 <p>First, select whichever chapter you are on in the book. Then; <br>
 <br>  
