@@ -1,0 +1,41 @@
+Don't bore us, get to the chorus:
+https://gluonhq.com/products/scene-builder/
+https://www.azul.com/downloads/?package=jdk#zulu
+
+Well, class, this is around the point in time where this 
+course actually becomes fun. Why did we learn this stupid language?
+To make quick yet robust applications that the programmer can
+interact with. This is, also, around the point in time within 
+the course where you figure out whether or not you installed 
+the correct JDK with corresponding open-JFX attachments 
+and accessories. If things are throwing errors often, it may 
+be a worthwhile endeavor to re-install a JDK with javaFX. 
+
+After which point in time, if the JavaFX test programs run
+without hitch, it becomes time to download the ever-helpful
+SceneBuilder software from this relevant link: 
+
+https://gluonhq.com/products/scene-builder/
+
+[~~~   gray-wave note:   add screenshots dir to notes dir.  ~~~]
+
+Upon successful installation of SceneBuilder, you will have to 
+select an output directory which will contain both your 
+"Skeleton Controller Code" and your FXML files. There is a 
+way to integrate the output of SceneBuilder directly into
+the input of NetBeans, but that will be left as an exercise for
+the reader. 
+
+The majority of time spent programming these small applications
+will be spent in the SceneBuilder software. This software offers
+an intuitive drag-and-drop interface that gives the programmer
+the ability to add GUI elements to a generalized canvas.
+
+In the left sidebar, one can find the dropdown menus for GUI
+elements. The middle functions as a preview/canvas for the 
+graphical piece of the app. The right sidebar contains many
+useful textboxes for generating both FXML and "Skeleton Controller"
+Java file.
+
+[~~~   gray-wave note:   add screenshot of SB default new file screen  ~~~]
+---UNDER CONSTRUCTION---
