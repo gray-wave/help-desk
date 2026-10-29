@@ -1,0 +1,24 @@
+I simply must relearn git via command line.
+The homework sections are entirely worthless without access to a textbook,
+and I'd rather just bulk delete the homework sections rather than waste a 
+ridiculous amount of time pointing and clicking.
+Not very free, open-source, and Java-esque of yours truly,
+~~~   Gray Wave   ~~~
+
+Also, how'd I manage to miss the deadline of the recursion assignment?
+Probably because I don't have a planner, right? Love to see a 10/40 in
+the gradebook.
+HOWEVER! Other silly things that simply must be done:
+
+1) Rework CH7 Arrays. There's so much cool stuff you can do 
+   with primitive arrays, Arrays, and ArrayLists.
+2) We should simply delete and move CH12 and CH13 later on. I don't 
+   even bother talking about generics, interfaces, abstract classes,
+   the list goes on and on and on and on (pun intended). Makes logical
+   and sense to include these prior to chapter 7, though primitive arrays
+   should be discussed prior to generics/lists/etc.
+3) Add a dedicated class Scanner section. Holy mackerel, does Scanner have
+   some neat things.
+4) That stupid bash script I've been working on for about 4 days now.
+
+GET BACK TO WORK!!!!!!!
