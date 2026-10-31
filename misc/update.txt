@@ -1,0 +1,24 @@
+4 things. 10-31-2026... Hallow's Eve. Devil's night. Whatever.
+
+1) I made SOME progress on the bash script. Not as much as
+   as I wanted to, but hey, a win is a win. The other thing is
+   "da-doy, dude. you assign a bash variable with the variable
+    assignment operator." A horse, but of course. It's genius,
+    why didn't I think of that?! Now my dang ole install is 
+    polluted with a bunch of garbage mistakes, and I'm going to
+    have to start from scratch AGAIN, instead of figuring out how
+    to fix my problems. [ Great nightly reading, those wikis are. ]
+
+2) They're really makin' me learn regular expressions now? 
+   After all these years of saying I'm going to? 
+   EUGH. [They in this case being... me.]
+
+3) I have caught a disease colloquially known as "feels." I think
+   in the 1980s, they would refer to this disease as a "crush." What 
+   do I do now? Just... forget about all of this? Channel my enthused 
+   and amused status into my work??? [ This is the option I went with.
+   Honestly, kinda could be the move. ]
+
+4) Yeah lemme get a super triple-double quicksort, O(n) time complexity, 
+   hold the fully sorted array. We only have worst case scenarios today?
+   Greaaaaaaat.
